@@ -1,5 +1,8 @@
-### Hi there 👋
-## - 🔭 I’m currently working on a project
+## Welcome Welcome Welcome
+### This is my playground with code, i wish your like what i made in here
+
+contact me if you see something wrong
+@lcver1092
 
 <!--
 **lcver/lcver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
