@@ -1,5 +1,5 @@
 ## Welcome Welcome Welcome
-### This is my playground with code, i wish your like what i made in here
+### This is my playground with code, I don't expect you to like what I've made here
 
 contact me if you see something wrong
 
