@@ -1,9 +1,12 @@
 ## Welcome Welcome Welcome
 ### This is my playground with code, I don't expect you to like what I've made here
 
-contact me if you see something wrong
+you can tell me if you see something wrong
 
-### line | @lcver1092
+contact me
+### Mail | lcver1092@gmail.com
+
+<!-- ### line | @lcver1092 -->
 
 <!--
 **lcver/lcver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
