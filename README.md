@@ -4,7 +4,7 @@
 you can tell me if you see something wrong
 
 contact me
-### Mail | lcver1092@gmail.com
+### Mail | luckyadhityaf@gmail.com
 
 <!-- ### line | @lcver1092 -->
 
